@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://github.com/MeoWoo6/meowsblog/sitemap.xml
+Sitemap: https://meowoo6.github.io/meowsblog/sitemap.xml
