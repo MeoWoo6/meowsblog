@@ -1,4 +1,5 @@
-baseURL = "https://example.com"
+#baseURL = "https://example.com"
+baseURL = "https://github.com/MeoWoo6/meowsblog"
 languageCode = "en-us"
 title = "水绿条纹"
 theme = "LeaveIt"
