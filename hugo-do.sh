@@ -1,3 +1,5 @@
+cd meowsblog
+
 hugo
 
 git status 
