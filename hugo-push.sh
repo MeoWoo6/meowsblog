@@ -2,7 +2,7 @@ cd
 
 cd meowsblog
 
-hugo
+hugo server
 
 git status 
 
