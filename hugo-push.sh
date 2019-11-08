@@ -1,3 +1,5 @@
+cd
+
 cd meowsblog
 
 hugo
